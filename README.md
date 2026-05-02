@@ -1,3 +1,7 @@
+# Customer Churn Prediction using Machine Learning
+# Course: BAN644/BAN744
+# Student: Md. Jubayer Ahsan
+
 # Customer Churn Prediction Project
 
 ## Objective
